@@ -1,0 +1,12 @@
+The rules are simple:
+Answer the questions ahead.
+But choose carefully,
+every answer holds a piece of the truth.
+From each answer, extract the first letter of the first word. 
+If the answer contains more than one word, take the first letter of the first word, 
+the second letter of the second word, the third of the third,until you have gathered them all.
+With these letters, you must forge a name. A name that whispers the truth you seek. 
+A name that unravels the mystery of your parents' deaths.
+Time is not your ally. Five minutes. No more. No less.
+Fail to complete the task, and the truth will be lost to the shadows forever. 
+Be wise. Choose wisely. Your fate depends on it

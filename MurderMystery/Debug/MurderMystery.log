@@ -1,0 +1,87 @@
+﻿  Avatar.cpp
+  MourningSky.cpp
+C:\Users\Simingaye\git\EchoesOfDeath\MourningSky.cpp(84,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Simingaye\git\EchoesOfDeath\MourningSky.cpp(96,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Simingaye\git\EchoesOfDeath\MourningSky.cpp(96,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(25,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MourningSky.cpp')
+      C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(25,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Simingaye\git\EchoesOfDeath\MourningSky.cpp(84,3):
+          see reference to function template instantiation 'void MoveTarget<sf::CircleShape>(int,int,T *,bool &,int,int)' being compiled
+          with
+          [
+              T=sf::CircleShape
+          ]
+  
+C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(28,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MourningSky.cpp')
+  
+C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(54,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MourningSky.cpp')
+      C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(54,46):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Simingaye\git\EchoesOfDeath\MourningSky.cpp(96,3):
+          see reference to function template instantiation 'void ProjectileMov<sf::CircleShape>(int,int,T *,bool)' being compiled
+          with
+          [
+              T=sf::CircleShape
+          ]
+  
+C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(54,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MourningSky.cpp')
+  
+  GameLoader.cpp
+C:\Users\Simingaye\git\EchoesOfDeath\GameLoader.cpp(104,15): warning C4018: '<': signed/unsigned mismatch
+  Level1.cpp
+C:\Users\Simingaye\git\EchoesOfDeath\Level1.cpp(77,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Level2.cpp
+C:\Users\Simingaye\git\EchoesOfDeath\Level2.cpp(122,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simingaye\git\EchoesOfDeath\Level2.cpp(341,15): warning C4018: '<': signed/unsigned mismatch
+  Level3.cpp
+C:\Users\Simingaye\git\EchoesOfDeath\Level3.cpp(333,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simingaye\git\EchoesOfDeath\Level3.cpp(408,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Simingaye\git\EchoesOfDeath\Level3.cpp(408,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+  Intro.cpp
+C:\Users\Simingaye\git\EchoesOfDeath\Intro.cpp(141,15): warning C4018: '<': signed/unsigned mismatch
+  Questions.cpp
+C:\Users\Simingaye\git\EchoesOfDeath\Questions.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Simingaye\git\EchoesOfDeath\Questions.cpp(37,37): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Simingaye\git\EchoesOfDeath\Questions.cpp(40,37): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Simingaye\git\EchoesOfDeath\Questions.cpp(44,36): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  shadowStrikes.cpp
+C:\Users\Simingaye\git\EchoesOfDeath\shadowStrikes.cpp(89,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Simingaye\git\EchoesOfDeath\shadowStrikes.cpp(101,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Simingaye\git\EchoesOfDeath\shadowStrikes.cpp(101,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(25,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'shadowStrikes.cpp')
+      C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(25,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Simingaye\git\EchoesOfDeath\shadowStrikes.cpp(89,4):
+          see reference to function template instantiation 'void MoveTarget<sf::RectangleShape>(int,int,T *,bool &,int,int)' being compiled
+          with
+          [
+              T=sf::RectangleShape
+          ]
+  
+C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(28,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'shadowStrikes.cpp')
+  
+C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(54,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'shadowStrikes.cpp')
+      C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(54,46):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Simingaye\git\EchoesOfDeath\shadowStrikes.cpp(101,4):
+          see reference to function template instantiation 'void ProjectileMov<sf::CircleShape>(int,int,T *,bool)' being compiled
+          with
+          [
+              T=sf::CircleShape
+          ]
+  
+C:\Users\Simingaye\git\EchoesOfDeath\MiniGames.h(54,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'shadowStrikes.cpp')
+  
+  Generating Code...
+Level1.obj : error LNK2019: unresolved external symbol "public: void __thiscall Level1::drawWindow(class sf::RenderWindow &,class std::vector<class sf::Sprite,class std::allocator<class sf::Sprite> >,class sf::RectangleShape,class sf::Text)" (?drawWindow@Level1@@QAEXAAVRenderWindow@sf@@V?$vector@VSprite@sf@@V?$allocator@VSprite@sf@@@std@@@std@@VRectangleShape@3@VText@3@@Z) referenced in function "public: int __thiscall Level1::play(class sf::RenderWindow &,class sf::Texture &,class sf::Sprite &,class sf::Text)" (?play@Level1@@QAEHAAVRenderWindow@sf@@AAVTexture@3@AAVSprite@3@VText@3@@Z)
+C:\Users\Simingaye\git\EchoesOfDeath\Debug\MurderMystery.exe : fatal error LNK1120: 1 unresolved externals

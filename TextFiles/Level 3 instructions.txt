@@ -1,0 +1,15 @@
+Level 3 instructions
+Chamber of secrets
+is a deadly game cloaked in mystery.
+In each room you will find important 
+documents you must read.
+Click the left button to move to the left.
+Click the right button to move to the right.
+Click the down button to move backwards.
+Click the up button to move forward.
+Your task is to navigate each room, gathering
+information and answering questions that
+follow.
+Ensure the avatar is in between the door 
+frame and the avatar is faced forward.
+The avatar must be closest to the door
